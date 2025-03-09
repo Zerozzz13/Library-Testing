@@ -1,4 +1,4 @@
 -- Variables
 local Plr = game:GetService("Players").LocalPlayer
 
-print("LynxOS Executed..."..Plr.Name.." (Created By H4CK3R.Dev) ")
+print("LynxOS Executed..."..Plr.Name.." -Created By H4CK3R.Dev- ")
