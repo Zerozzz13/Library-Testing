@@ -1,1 +1,4 @@
-print("Library --- Tester --------------- DevLumeX ")
+-- Variables
+local Plr = game:GetService("Players").LocalPlayer
+
+print("LynxOS Executed..."..Plr.Name)
